@@ -1,1 +1,1 @@
-Git_version1
+Git_version1_VERSION2 FOR BRANCH
